@@ -17,4 +17,4 @@ Restart Arduino IDE.
 
 Download and add Arduino NeoPixelBus Library.
 
-Open the "RGB Sphere.ino" file in main to edit and programing your animations!!
+Open the "RGB Sphere.ino" file in main to edit and program your animations!!
